@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Image processing mobile</string>
+    <string name="folder_name">ImgProc</string>
+    <string name="hello">Hello from the image processing mobile app</string>
+    <string name="create">Create</string>
+    <string name="photo_name">Photo name</string>
+    <string name="no_photos">There are no photos to be displayed</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="next">Next</string>
+    <string name="save">Save</string>
+</resources>
